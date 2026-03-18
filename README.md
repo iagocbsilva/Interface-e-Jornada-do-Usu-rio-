@@ -4,7 +4,7 @@
 
 O Figma é uma ferramenta online usada para criar interfaces, protótipos e designs de aplicativos e sites.
 
- Usabilidade
+//Usabilidade//
 
 O Figma é fácil de usar, com uma interface simples e organizada, permitindo que até iniciantes consigam criar projetos rapidamente.
 
